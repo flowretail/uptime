@@ -1,0 +1,1877 @@
+{
+ "generated": "2026-11-05T13:13:45+01:00",
+ "window_days": 90,
+ "measured_from": "2026-10-12",
+ "sla": {
+  "target": 99.9,
+  "excludes_planned_maintenance": true
+ },
+ "status": "operational",
+ "method": "Icinga checks every service over HTTPS every minute, day and night. A day's uptime is the share of the day the check was OK, after Icinga's retries; planned maintenance is left out. Nettbutikk is the average of every production shop.",
+ "services": [
+  {
+   "id": "api",
+   "name": "API",
+   "description": "api.flowretail.com",
+   "uptime_90d": 100.0,
+   "status": "operational",
+   "checks": 1,
+   "days": [
+    {
+     "date": "2026-08-07",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-08",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-09",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-10",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-11",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-12",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-13",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-14",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-15",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-16",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-17",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-18",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-19",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-20",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-21",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-22",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-23",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-24",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-25",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-26",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-27",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-28",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-29",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-30",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-31",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-01",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-02",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-03",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-04",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-05",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-06",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-07",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-08",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-09",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-10",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-11",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-12",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-13",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-14",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-15",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-16",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-17",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-18",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-19",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-20",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-21",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-22",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-23",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-24",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-25",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-26",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-27",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-28",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-29",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-30",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-01",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-02",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-03",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-04",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-05",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-06",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-07",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-08",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-09",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-10",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-11",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-12",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-13",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-14",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-15",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-16",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-17",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-18",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-19",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-20",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-21",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-22",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-23",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-24",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-25",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-26",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-27",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-28",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-29",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    }
+   ]
+  },
+  {
+   "id": "nettbutikk",
+   "name": "Nettbutikk",
+   "description": "Shopware driftet av Flow",
+   "uptime_90d": 99.982,
+   "status": "operational",
+   "checks": 17,
+   "days": [
+    {
+     "date": "2026-08-07",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-08",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-09",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-10",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-11",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-12",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-13",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-14",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-15",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-16",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-17",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-18",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-19",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-20",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-21",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-22",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-23",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-24",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-25",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-26",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-27",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-28",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-29",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-30",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-31",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-01",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-02",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-03",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-04",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-05",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-06",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-07",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-08",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-09",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-10",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-11",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-12",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-13",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-14",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-15",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-16",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-17",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-18",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-19",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-20",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-21",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-22",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-23",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-24",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-25",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-26",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-27",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-28",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-29",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-30",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-01",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-02",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-03",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-04",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-05",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-06",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-07",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-08",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-09",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-10",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-11",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-12",
+     "status": "degraded",
+     "uptime": 99.98,
+     "down_minutes": 0.3,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-13",
+     "status": "degraded",
+     "uptime": 99.98,
+     "down_minutes": 0.3,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-14",
+     "status": "degraded",
+     "uptime": 99.98,
+     "down_minutes": 0.3,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-15",
+     "status": "maintenance",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 8.8
+    },
+    {
+     "date": "2026-10-16",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-17",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-18",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-19",
+     "status": "degraded",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 14.4,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-20",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-21",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-22",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-23",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-24",
+     "status": "down",
+     "uptime": 99.919,
+     "down_minutes": 1.2,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-25",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-26",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-27",
+     "status": "degraded",
+     "uptime": 99.959,
+     "down_minutes": 0.6,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-28",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-29",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "status": "down",
+     "uptime": 99.741,
+     "down_minutes": 3.7,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    }
+   ]
+  },
+  {
+   "id": "friendsof",
+   "name": "Friends Of",
+   "description": "Markedsføring og kundeklubb",
+   "uptime_90d": 100.0,
+   "status": "operational",
+   "checks": 1,
+   "days": [
+    {
+     "date": "2026-08-07",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-08",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-09",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-10",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-11",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-12",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-13",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-14",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-15",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-16",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-17",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-18",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-19",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-20",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-21",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-22",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-23",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-24",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-25",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-26",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-27",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-28",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-29",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-30",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-31",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-01",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-02",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-03",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-04",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-05",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-06",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-07",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-08",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-09",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-10",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-11",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-12",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-13",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-14",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-15",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-16",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-17",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-18",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-19",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-20",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-21",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-22",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-23",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-24",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-25",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-26",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-27",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-28",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-29",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-30",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-01",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-02",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-03",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-04",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-05",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-06",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-07",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-08",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-09",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-10",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-11",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-12",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-13",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-14",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-15",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-16",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-17",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-18",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-19",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-20",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-21",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-22",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-23",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-24",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-25",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-26",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-27",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-28",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-29",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    }
+   ]
+  },
+  {
+   "id": "atlas",
+   "name": "Flow Atlas",
+   "description": "PIM og DAM",
+   "uptime_90d": 100.0,
+   "status": "operational",
+   "checks": 1,
+   "days": [
+    {
+     "date": "2026-08-07",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-08",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-09",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-10",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-11",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-12",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-13",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-14",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-15",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-16",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-17",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-18",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-19",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-20",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-21",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-22",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-23",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-24",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-25",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-26",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-27",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-28",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-29",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-30",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-08-31",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-01",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-02",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-03",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-04",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-05",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-06",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-07",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-08",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-09",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-10",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-11",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-12",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-13",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-14",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-15",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-16",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-17",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-18",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-19",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-20",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-21",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-22",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-23",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-24",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-25",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-26",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-27",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-28",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-29",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-09-30",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-01",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-02",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-03",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-04",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-05",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-06",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-07",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-08",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-09",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-10",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-11",
+     "status": "nodata"
+    },
+    {
+     "date": "2026-10-12",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-13",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-14",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-15",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-16",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-17",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-18",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-19",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-20",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-21",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-22",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-23",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-24",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-25",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-26",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-27",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-28",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-29",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0.0,
+     "degraded_minutes": 0.0,
+     "maintenance_minutes": 0.0
+    }
+   ]
+  }
+ ]
+}
