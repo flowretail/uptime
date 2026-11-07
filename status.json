@@ -1,0 +1,26 @@
+{
+ "generated": "2026-11-07T12:15:10+01:00",
+ "status": "operational",
+ "services": [
+  {
+   "id": "api",
+   "name": "API",
+   "status": "operational"
+  },
+  {
+   "id": "nettbutikk",
+   "name": "Nettbutikk",
+   "status": "operational"
+  },
+  {
+   "id": "friendsof",
+   "name": "Friends Of",
+   "status": "operational"
+  },
+  {
+   "id": "atlas",
+   "name": "Flow Atlas",
+   "status": "operational"
+  }
+ ]
+}
