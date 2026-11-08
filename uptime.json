@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T00:21:01+01:00",
+ "generated": "2026-11-09T00:21:40+01:00",
  "window_days": 90,
  "measured_from": "2026-10-20",
  "sla": {
@@ -17,11 +17,6 @@
    "status": "operational",
    "checks": 1,
    "days": [
-    {
-     "date": "2026-08-10",
-     "status": "nodata",
-     "explanation": null
-    },
     {
      "date": "2026-08-11",
      "status": "nodata",
@@ -542,6 +537,15 @@
      "degraded_minutes": 0,
      "maintenance_minutes": 0,
      "explanation": null
+    },
+    {
+     "date": "2026-11-08",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0,
+     "degraded_minutes": 0,
+     "maintenance_minutes": 0,
+     "explanation": null
     }
    ]
   },
@@ -549,15 +553,10 @@
    "id": "nettbutikk",
    "name": "Nettbutikk",
    "description": "Shopware driftet av Flow",
-   "uptime_90d": 99.97,
+   "uptime_90d": 99.971,
    "status": "operational",
    "checks": 17,
    "days": [
-    {
-     "date": "2026-08-10",
-     "status": "nodata",
-     "explanation": null
-    },
     {
      "date": "2026-08-11",
      "status": "nodata",
@@ -1078,6 +1077,15 @@
      "degraded_minutes": 0,
      "maintenance_minutes": 0,
      "explanation": null
+    },
+    {
+     "date": "2026-11-08",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0,
+     "degraded_minutes": 0,
+     "maintenance_minutes": 0,
+     "explanation": null
     }
    ]
   },
@@ -1089,11 +1097,6 @@
    "status": "operational",
    "checks": 1,
    "days": [
-    {
-     "date": "2026-08-10",
-     "status": "nodata",
-     "explanation": null
-    },
     {
      "date": "2026-08-11",
      "status": "nodata",
@@ -1608,6 +1611,15 @@
     },
     {
      "date": "2026-11-07",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0,
+     "degraded_minutes": 0,
+     "maintenance_minutes": 0,
+     "explanation": null
+    },
+    {
+     "date": "2026-11-08",
      "status": "ok",
      "uptime": 100.0,
      "down_minutes": 0,
@@ -1626,11 +1638,6 @@
    "checks": 1,
    "days": [
     {
-     "date": "2026-08-10",
-     "status": "nodata",
-     "explanation": null
-    },
-    {
      "date": "2026-08-11",
      "status": "nodata",
      "explanation": null
@@ -2144,6 +2151,15 @@
     },
     {
      "date": "2026-11-07",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0,
+     "degraded_minutes": 0,
+     "maintenance_minutes": 0,
+     "explanation": null
+    },
+    {
+     "date": "2026-11-08",
      "status": "ok",
      "uptime": 100.0,
      "down_minutes": 0,
