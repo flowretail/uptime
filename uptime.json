@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T00:20:47+01:00",
+ "generated": "2026-11-14T00:21:22+01:00",
  "window_days": 90,
  "measured_from": "2026-10-20",
  "sla": {
@@ -17,11 +17,6 @@
    "status": "operational",
    "checks": 1,
    "days": [
-    {
-     "date": "2026-08-15",
-     "status": "nodata",
-     "explanation": null
-    },
     {
      "date": "2026-08-16",
      "status": "nodata",
@@ -561,6 +556,15 @@
      "down_minutes": 0,
      "degraded_minutes": 0,
      "maintenance_minutes": 60,
+     "explanation": "Planlagt sikkerhets patching"
+    },
+    {
+     "date": "2026-11-13",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0,
+     "degraded_minutes": 0,
+     "maintenance_minutes": 0,
      "explanation": null
     }
    ]
@@ -573,11 +577,6 @@
    "status": "operational",
    "checks": 17,
    "days": [
-    {
-     "date": "2026-08-15",
-     "status": "nodata",
-     "explanation": null
-    },
     {
      "date": "2026-08-16",
      "status": "nodata",
@@ -1117,7 +1116,16 @@
      "down_minutes": 0,
      "degraded_minutes": 2,
      "maintenance_minutes": 60,
-     "explanation": null
+     "explanation": "Planlagt sikkerhets patching"
+    },
+    {
+     "date": "2026-11-13",
+     "status": "maintenance",
+     "uptime": 99.985,
+     "down_minutes": 0,
+     "degraded_minutes": 3,
+     "maintenance_minutes": 12,
+     "explanation": "Planlagt sikkerhets patching"
     }
    ]
   },
@@ -1130,11 +1138,6 @@
    "checks": 1,
    "days": [
     {
-     "date": "2026-08-15",
-     "status": "nodata",
-     "explanation": null
-    },
-    {
      "date": "2026-08-16",
      "status": "nodata",
      "explanation": null
@@ -1673,7 +1676,16 @@
      "down_minutes": 0,
      "degraded_minutes": 0,
      "maintenance_minutes": 60,
-     "explanation": null
+     "explanation": "Planlagt sikkerhets patching"
+    },
+    {
+     "date": "2026-11-13",
+     "status": "maintenance",
+     "uptime": 100.0,
+     "down_minutes": 0,
+     "degraded_minutes": 0,
+     "maintenance_minutes": 6,
+     "explanation": "Planlagt sikkerhets patching"
     }
    ]
   },
@@ -1686,11 +1698,6 @@
    "checks": 1,
    "days": [
     {
-     "date": "2026-08-15",
-     "status": "nodata",
-     "explanation": null
-    },
-    {
      "date": "2026-08-16",
      "status": "nodata",
      "explanation": null
@@ -2229,7 +2236,16 @@
      "down_minutes": 0,
      "degraded_minutes": 0,
      "maintenance_minutes": 60,
-     "explanation": null
+     "explanation": "Planlagt sikkerhets patching"
+    },
+    {
+     "date": "2026-11-13",
+     "status": "maintenance",
+     "uptime": 100.0,
+     "down_minutes": 0,
+     "degraded_minutes": 0,
+     "maintenance_minutes": 6,
+     "explanation": "Planlagt sikkerhets patching"
     }
    ]
   }
