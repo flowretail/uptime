@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T00:21:22+01:00",
+ "generated": "2026-11-15T00:21:24+01:00",
  "window_days": 90,
  "measured_from": "2026-10-20",
  "sla": {
@@ -17,11 +17,6 @@
    "status": "operational",
    "checks": 1,
    "days": [
-    {
-     "date": "2026-08-16",
-     "status": "nodata",
-     "explanation": null
-    },
     {
      "date": "2026-08-17",
      "status": "nodata",
@@ -566,6 +561,15 @@
      "degraded_minutes": 0,
      "maintenance_minutes": 0,
      "explanation": null
+    },
+    {
+     "date": "2026-11-14",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0,
+     "degraded_minutes": 0,
+     "maintenance_minutes": 0,
+     "explanation": null
     }
    ]
   },
@@ -573,15 +577,10 @@
    "id": "nettbutikk",
    "name": "Nettbutikk",
    "description": "Shopware driftet av Flow",
-   "uptime_90d": 99.976,
+   "uptime_90d": 99.977,
    "status": "operational",
    "checks": 17,
    "days": [
-    {
-     "date": "2026-08-16",
-     "status": "nodata",
-     "explanation": null
-    },
     {
      "date": "2026-08-17",
      "status": "nodata",
@@ -1126,6 +1125,15 @@
      "degraded_minutes": 3,
      "maintenance_minutes": 12,
      "explanation": "Planlagt sikkerhets patching"
+    },
+    {
+     "date": "2026-11-14",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0,
+     "degraded_minutes": 0,
+     "maintenance_minutes": 0,
+     "explanation": null
     }
    ]
   },
@@ -1138,11 +1146,6 @@
    "checks": 1,
    "days": [
     {
-     "date": "2026-08-16",
-     "status": "nodata",
-     "explanation": null
-    },
-    {
      "date": "2026-08-17",
      "status": "nodata",
      "explanation": null
@@ -1686,6 +1689,15 @@
      "degraded_minutes": 0,
      "maintenance_minutes": 6,
      "explanation": "Planlagt sikkerhets patching"
+    },
+    {
+     "date": "2026-11-14",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0,
+     "degraded_minutes": 0,
+     "maintenance_minutes": 0,
+     "explanation": null
     }
    ]
   },
@@ -1698,11 +1710,6 @@
    "checks": 1,
    "days": [
     {
-     "date": "2026-08-16",
-     "status": "nodata",
-     "explanation": null
-    },
-    {
      "date": "2026-08-17",
      "status": "nodata",
      "explanation": null
@@ -2246,6 +2253,15 @@
      "degraded_minutes": 0,
      "maintenance_minutes": 6,
      "explanation": "Planlagt sikkerhets patching"
+    },
+    {
+     "date": "2026-11-14",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0,
+     "degraded_minutes": 0,
+     "maintenance_minutes": 0,
+     "explanation": null
     }
    ]
   }
