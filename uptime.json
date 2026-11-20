@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T00:21:24+01:00",
+ "generated": "2026-11-21T00:21:48+01:00",
  "window_days": 90,
  "measured_from": "2026-10-20",
  "sla": {
@@ -17,11 +17,6 @@
    "status": "operational",
    "checks": 1,
    "days": [
-    {
-     "date": "2026-08-22",
-     "status": "nodata",
-     "explanation": null
-    },
     {
      "date": "2026-08-23",
      "status": "nodata",
@@ -590,6 +585,15 @@
      "degraded_minutes": 0,
      "maintenance_minutes": 0,
      "explanation": null
+    },
+    {
+     "date": "2026-11-20",
+     "status": "maintenance",
+     "uptime": 100.0,
+     "down_minutes": 0,
+     "degraded_minutes": 0,
+     "maintenance_minutes": 6,
+     "explanation": null
     }
    ]
   },
@@ -601,11 +605,6 @@
    "status": "operational",
    "checks": 17,
    "days": [
-    {
-     "date": "2026-08-22",
-     "status": "nodata",
-     "explanation": null
-    },
     {
      "date": "2026-08-23",
      "status": "nodata",
@@ -1174,6 +1173,15 @@
      "degraded_minutes": 0,
      "maintenance_minutes": 0,
      "explanation": null
+    },
+    {
+     "date": "2026-11-20",
+     "status": "maintenance",
+     "uptime": 100.0,
+     "down_minutes": 0,
+     "degraded_minutes": 0,
+     "maintenance_minutes": 6,
+     "explanation": null
     }
    ]
   },
@@ -1185,11 +1193,6 @@
    "status": "operational",
    "checks": 1,
    "days": [
-    {
-     "date": "2026-08-22",
-     "status": "nodata",
-     "explanation": null
-    },
     {
      "date": "2026-08-23",
      "status": "nodata",
@@ -1757,6 +1760,15 @@
      "down_minutes": 0,
      "degraded_minutes": 0,
      "maintenance_minutes": 0,
+     "explanation": null
+    },
+    {
+     "date": "2026-11-20",
+     "status": "maintenance",
+     "uptime": 100.0,
+     "down_minutes": 0,
+     "degraded_minutes": 0,
+     "maintenance_minutes": 6,
      "explanation": null
     }
    ]
@@ -1770,11 +1782,6 @@
    "checks": 1,
    "days": [
     {
-     "date": "2026-08-22",
-     "status": "nodata",
-     "explanation": null
-    },
-    {
      "date": "2026-08-23",
      "status": "nodata",
      "explanation": null
@@ -2341,6 +2348,15 @@
      "down_minutes": 0,
      "degraded_minutes": 0,
      "maintenance_minutes": 0,
+     "explanation": null
+    },
+    {
+     "date": "2026-11-20",
+     "status": "maintenance",
+     "uptime": 100.0,
+     "down_minutes": 0,
+     "degraded_minutes": 0,
+     "maintenance_minutes": 6,
      "explanation": null
     }
    ]
