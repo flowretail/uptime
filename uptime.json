@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T00:22:02+01:00",
+ "generated": "2026-11-28T00:21:28+01:00",
  "window_days": 90,
  "measured_from": "2026-10-20",
  "sla": {
@@ -17,11 +17,6 @@
    "status": "operational",
    "checks": 1,
    "days": [
-    {
-     "date": "2026-08-29",
-     "status": "nodata",
-     "explanation": null
-    },
     {
      "date": "2026-08-30",
      "status": "nodata",
@@ -618,6 +613,15 @@
      "degraded_minutes": 0,
      "maintenance_minutes": 0,
      "explanation": null
+    },
+    {
+     "date": "2026-11-27",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0,
+     "degraded_minutes": 0,
+     "maintenance_minutes": 0,
+     "explanation": null
     }
    ]
   },
@@ -627,13 +631,8 @@
    "description": "Shopware driftet av Flow",
    "uptime_90d": 99.983,
    "status": "operational",
-   "checks": 17,
+   "checks": 16,
    "days": [
-    {
-     "date": "2026-08-29",
-     "status": "nodata",
-     "explanation": null
-    },
     {
      "date": "2026-08-30",
      "status": "nodata",
@@ -928,7 +927,7 @@
     {
      "date": "2026-10-24",
      "status": "degraded",
-     "uptime": 99.857,
+     "uptime": 99.845,
      "down_minutes": 0,
      "degraded_minutes": 27,
      "maintenance_minutes": 0,
@@ -955,7 +954,7 @@
     {
      "date": "2026-10-27",
      "status": "degraded",
-     "uptime": 99.934,
+     "uptime": 99.929,
      "down_minutes": 0,
      "degraded_minutes": 12,
      "maintenance_minutes": 0,
@@ -982,7 +981,7 @@
     {
      "date": "2026-10-30",
      "status": "down",
-     "uptime": 99.632,
+     "uptime": 99.643,
      "down_minutes": 5,
      "degraded_minutes": 8,
      "maintenance_minutes": 0,
@@ -1099,7 +1098,7 @@
     {
      "date": "2026-11-12",
      "status": "maintenance",
-     "uptime": 99.991,
+     "uptime": 99.99,
      "down_minutes": 0,
      "degraded_minutes": 2,
      "maintenance_minutes": 60,
@@ -1108,9 +1107,9 @@
     {
      "date": "2026-11-13",
      "status": "maintenance",
-     "uptime": 99.985,
+     "uptime": 100.0,
      "down_minutes": 0,
-     "degraded_minutes": 3,
+     "degraded_minutes": 0,
      "maintenance_minutes": 12,
      "explanation": "Planlagt sikkerhets patching"
     },
@@ -1135,7 +1134,7 @@
     {
      "date": "2026-11-16",
      "status": "degraded",
-     "uptime": 99.936,
+     "uptime": 99.93,
      "down_minutes": 0,
      "degraded_minutes": 12,
      "maintenance_minutes": 0,
@@ -1230,6 +1229,15 @@
      "degraded_minutes": 0,
      "maintenance_minutes": 0,
      "explanation": null
+    },
+    {
+     "date": "2026-11-27",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0,
+     "degraded_minutes": 0,
+     "maintenance_minutes": 0,
+     "explanation": null
     }
    ]
   },
@@ -1241,11 +1249,6 @@
    "status": "operational",
    "checks": 1,
    "days": [
-    {
-     "date": "2026-08-29",
-     "status": "nodata",
-     "explanation": null
-    },
     {
      "date": "2026-08-30",
      "status": "nodata",
@@ -1836,6 +1839,15 @@
     },
     {
      "date": "2026-11-26",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0,
+     "degraded_minutes": 0,
+     "maintenance_minutes": 0,
+     "explanation": null
+    },
+    {
+     "date": "2026-11-27",
      "status": "ok",
      "uptime": 100.0,
      "down_minutes": 0,
@@ -1854,11 +1866,6 @@
    "checks": 1,
    "days": [
     {
-     "date": "2026-08-29",
-     "status": "nodata",
-     "explanation": null
-    },
-    {
      "date": "2026-08-30",
      "status": "nodata",
      "explanation": null
@@ -2448,6 +2455,15 @@
     },
     {
      "date": "2026-11-26",
+     "status": "ok",
+     "uptime": 100.0,
+     "down_minutes": 0,
+     "degraded_minutes": 0,
+     "maintenance_minutes": 0,
+     "explanation": null
+    },
+    {
+     "date": "2026-11-27",
      "status": "ok",
      "uptime": 100.0,
      "down_minutes": 0,
